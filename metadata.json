@@ -1,0 +1,7 @@
+{
+  "name": "Copy of iPAY",
+  "description": "A modern, Gen-Z focused fintech application featuring dual client/agent dashboards, gamified savings, and customizable aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
